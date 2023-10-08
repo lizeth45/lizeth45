@@ -7,7 +7,9 @@
 Hello everyone, I'm a software engineering student, and I'm excited to share my passion for programming with you. In this repository, you can find a collection of projects, both personal and school-related, that I've been working on. I hope you find something interesting and useful here! Feel free to explore and contribute. Thank you for visiting my profile!
 
 <h2>🌍 Find me </h2>
-lizeth1354@outlook.es
+<ul>
+  <li>📧 lizeth1354@outlook.es</li>
+</ul>
 <div align="left">
 <a href="https://www.linkedin.com/in/lizeth-rodriguez45"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="45px"/></a>
 <a href="https://discordapp.com/users/lgrod"><img src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="Discord" width="45px"/></a>
