@@ -13,6 +13,7 @@ Hello everyone, I'm a software engineering student, and I'm excited to share my 
 <div align="left">
 <a href="https://www.linkedin.com/in/lizeth-rodriguez45"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="45px"/></a>
 <a href="https://discordapp.com/users/lgrod"><img src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="Discord" width="45px"/></a>
+<a href="https://twitter.com/0LGROD"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" width="45px"/></a>
 </div>
 
 
