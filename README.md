@@ -7,8 +7,9 @@
 Hello everyone, I'm a software engineering student, and I'm excited to share my passion for programming with you. In this repository, you can find a collection of projects, both personal and school-related, that I've been working on. I hope you find something interesting and useful here! Feel free to explore and contribute. Thank you for visiting my profile!
 
 <h2>🌍 Find me </h2>
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lizeth-rodriguez45)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+<!--[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lizeth-rodriguez45)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/) -->
+
 <a href=”https://www.linkedin.com/in/lizeth-rodriguez45"><img align=”left” src=”https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt=”icon | LinkedIn” width=”21px”/></a>
 
 
