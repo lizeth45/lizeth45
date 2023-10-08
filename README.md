@@ -1,6 +1,8 @@
 <!--### Hi there 👋-->
 
-# Hi, I'm Lizeth Rodriguez! 👋
+<h1 align="center"> 
+  Hi, I'm Lizeth Rodriguez! 👋
+</h1>
 
 Hello everyone, I'm a software engineering student, and I'm excited to share my passion for programming with you. In this repository, you can find a collection of projects, both personal and school-related, that I've been working on. I hope you find something interesting and useful here! Feel free to explore and contribute. Thank you for visiting my profile!
 
