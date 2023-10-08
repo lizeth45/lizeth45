@@ -8,7 +8,7 @@ Hello everyone, I'm a software engineering student, and I'm excited to share my 
 
 <h2>🌍 Find me </h2>
 <div align="left">
-<a href=”https://www.linkedin.com/in/lizeth-rodriguez45"><img src=”https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+<a href="https://www.linkedin.com/in/lizeth-rodriguez45"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="21px"/></a>
 </div>
 
 
