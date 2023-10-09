@@ -23,7 +23,16 @@ Hello everyone, I'm a software engineering student, and I'm excited to share my 
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="Css" width="35px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JS" width="35px"/>
   <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="35px"/>
-  <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" alt="Mysql" width="35px"/>
+
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="35px"/>
+  <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="Swift" width="35px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="35px"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="35px"/>
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="35px"/>
+  <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" width="35px"/>
+  
+  
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="Mysql" width="35px"/>
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="35px"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="35px"/>
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="Sqlite" width="35px"/>
