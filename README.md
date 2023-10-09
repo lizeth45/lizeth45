@@ -4,6 +4,8 @@
   Lizeth Rodriguez Rodriguez 👩‍💻
 </h1>
 
+<img align="center" src="resources/mybanner.png" alt="Mybanner"/>
+
 Hello everyone, I'm a software engineering student, and I'm excited to share my passion for programming with you. In this repository, you can find a collection of projects, both personal and school-related, that I've been working on. I hope you find something interesting and useful here! Feel free to explore and contribute. Thank you for visiting my profile!
 
 <h2>🌍 Find me </h2>
