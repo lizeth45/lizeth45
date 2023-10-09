@@ -1,7 +1,7 @@
 <!--### Hi there 👋-->
 
-<h1 align="center"> 
-  Lizeth Rodriguez Rodriguez 👩‍💻
+<h1 align="left"> 
+  Hi everyone!👋
 </h1>
 
 <img align="center" src="resources/mybanner.png" alt="Mybanner"/>
