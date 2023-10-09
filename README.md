@@ -13,14 +13,15 @@ Hello everyone, I'm a software engineering student, and I'm excited to share my 
   <li>📧 lizeth1354@outlook.es</li>
 </ul>
 <div align="left">
-<a href="https://www.linkedin.com/in/lizeth-rodriguez45"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="45px"/></a>
-<a href="https://discordapp.com/users/lgrod"><img src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="Discord" width="45px"/></a>
-<a href="https://twitter.com/0LGROD"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" width="45px"/></a>
+<a href="https://www.linkedin.com/in/lizeth-rodriguez45"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="35px"/></a>
+<a href="https://discordapp.com/users/lgrod"><img src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="Discord" width="35px"/></a>
+<a href="https://twitter.com/0LGROD"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" width="35px"/></a>
 </div>
 <h2>💻 Technical Skills </h2>
 <div align="center">
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="Html" width="35px"/>
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="Css" width="35px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JS" width="35px"/>
   <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="35px"/>
   <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" alt="Mysql" width="35px"/>
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="35px"/>
