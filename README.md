@@ -30,6 +30,7 @@ Hello everyone, I'm a software engineering student, and I'm excited to share my 
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="35px"/>
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="35px"/>
   <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" width="35px"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Github" width="35px"/>
   
   
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="Mysql" width="35px"/>
