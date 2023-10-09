@@ -35,7 +35,8 @@ Hello everyone, I'm a software engineering student, and I'm excited to share my 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="35px"/>
   <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="Json" width="35px"/>
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="Aws" width="35px"/>
-  
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="35px"/>
+  <img src="https://logowik.com/content/uploads/images/bootstrap.jpg" alt="Bootstrap" width="35px"/>
   
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="Mysql" width="35px"/>
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="35px"/>
